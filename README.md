@@ -1,6 +1,6 @@
 👋 Hi, I’m Ernesto Crespo @Ernestoc14
 👀 I’m interested in learning new technologies and improve as developer!
-🌱 I’m currently learning Python, Javascript and React
+🌱 I’m currently learning Javascript and React
 💞️ I’m looking to collaborate on new projects to gain experience
 📫 How to reach me: @ernie.codes on Instagram 
 
