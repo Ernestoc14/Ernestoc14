@@ -7,7 +7,7 @@ coding projects are built from scrath, planning and designing all the way to sol
 My content is also built the same way, a lot of ideas come up during the learning process and I take advantage to create content about it. The content is published on my Instagram "[Ernie.codes][instagram]". 
 
 
--I'm currently working on a "[MERN Stack Project] [last]".
+-I'm currently working on a "[MERN Stack Project][last]".
 
 
 -I'm currently learning React and Javascript 💞️
