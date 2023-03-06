@@ -7,7 +7,7 @@ coding projects are built from scrath, planning and designing all the way to sol
 My content is also built the same way, a lot of ideas come up during the learning process and I take advantage to create content about it. The content is published on my Instagram "[ErnieCodes][instagram]". 
 
 
--I'm currently working on a MERN Stack Project [https://github.com/Ernestoc14/Mern-Crud]
+-I'm currently working on a MERN Stack Project [last]
 
 
 -I'm currently learning React and Javascript 💞️
@@ -51,10 +51,8 @@ My content is also built the same way, a lot of ideas come up during the learnin
 
 ![Ernesto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernestoc14&show_icons=true&theme=gruvbox)
 
-[website]: https://my URL
 
 
-
-[website]: https://fkcodes.com
+[last]: https://github.com/Ernestoc14/Mern-Crud
 [instagram]: https://instagram.com/ernie.codes
 
