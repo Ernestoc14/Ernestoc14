@@ -5,24 +5,11 @@
 I'm a Developer, PC Builder and Content Creator building my version of the digital wolrd step by step. All
 coding projects are built from scrath, planning and designing all the way to solve a real-life problem.
 My content is also built the same way, a lot of ideas come up during the learning process and I take advantage to create content about it. The content is published on my Instagram "[ErnieCodes][instagram]". 
-
 -I'm currently working on a MERN Stack Project [https://github.com/Ernestoc14/Mern-Crud]
 -I'm currently learning React and Javascript 💞️
 -I’m  looking to collaborate with others content creators 🌱  
 -I’m  studying to improve as developer!
 -How to reach me: @ernie.codes on Instagram 📫 
-
----
-
-### Connect with me:
-[![website](./img/globe-light.svg)](personal-website-url #gh-light-mode-only)
-[![website](./img/globe-dark.svg)](personal-website-url #gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/ernesto-crespo-cass#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ernesto-crespo-cass#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/ernie.codes#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/ernie.codes#gh-dark-mode-only)
 
 ---
 
@@ -52,10 +39,6 @@ My content is also built the same way, a lot of ideas come up during the learnin
 
 ![Ernesto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernestoc14&show_icons=true&theme=gruvbox)
 
-[website]: my URL
-[instagram]: https://www.instagram.com/ernie.codes
-
-
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+[website]: https://my URL
+[youtube]: https://www.instagram.com/ernie.codes
 
