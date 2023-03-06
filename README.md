@@ -54,3 +54,8 @@ My content is also built the same way, a lot of ideas come up during the learnin
 
 [website]: my URL
 [instagram]: https://www.instagram.com/ernie.codes
+
+
+[website]: https://fkcodes.com
+[youtube]: https://youtube.com/fknight
+
