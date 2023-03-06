@@ -5,11 +5,23 @@
 I'm a Developer, PC Builder and Content Creator building my version of the digital wolrd step by step. All
 coding projects are built from scrath, planning and designing all the way to solve a real-life problem.
 My content is also built the same way, a lot of ideas come up during the learning process and I take advantage to create content about it. The content is published on my Instagram "[ErnieCodes][instagram]". 
+
+
 -I'm currently working on a MERN Stack Project [https://github.com/Ernestoc14/Mern-Crud]
+
+
 -I'm currently learning React and Javascript 💞️
+
+
 -I’m  looking to collaborate with others content creators 🌱  
+
+
 -I’m  studying to improve as developer!
+
+
 -How to reach me: @ernie.codes on Instagram 📫 
+
+
 
 ---
 
@@ -40,5 +52,5 @@ My content is also built the same way, a lot of ideas come up during the learnin
 ![Ernesto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernestoc14&show_icons=true&theme=gruvbox)
 
 [website]: https://my URL
-[youtube]: https://www.instagram.com/ernie.codes
+[youtube]: https://instagram.com/ernie.codes
 
