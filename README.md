@@ -52,9 +52,9 @@ My content is also built the same way, a lot of ideas come up during the learnin
 ![Ernesto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernestoc14&show_icons=true&theme=gruvbox)
 
 [website]: https://my URL
-[youtube]: https://instagram.com/ernie.codes
+
 
 
 [website]: https://fkcodes.com
-[instagram]: https://youtube.com/fknight
+[instagram]: https://instagram.com/ernie.codes
 
