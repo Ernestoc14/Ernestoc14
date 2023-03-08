@@ -43,7 +43,7 @@ My content is also built the same way, a lot of ideas come up during the learnin
 
 ### 📊 Stats
 
-![Ernesto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernestoc14&show_icons=true&theme=gruvbox)
+![Ernesto's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ernestoc14&show_icons=true&theme=gruvbox)
 
 
 
