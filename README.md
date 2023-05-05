@@ -48,6 +48,8 @@ My content is also built the same way, a lot of ideas come up during the learnin
 
 ![Ernesto's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ernestoc14&show_icons=true&theme=gruvbox)
 
+![Ernesto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=grimxreaper&count_private=true&theme=material-palenight&show_icons=true)
+
 
 
 [last]: https://github.com/Ernestoc14/Mern-Crud
