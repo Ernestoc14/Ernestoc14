@@ -46,7 +46,7 @@ My content is also built the same way, a lot of ideas come up during the learnin
 
 ### 📊 Stats
 
-(https://github-readme-stats-sigma-five.vercel.app/api?username=Ernestoc14&show_icons=true&theme=gruvbox)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Ernestoc14&show_icons=true&theme=gruvbox)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ernestoc14&count_private=true&theme=material-palenight&show_icons=true">
 
