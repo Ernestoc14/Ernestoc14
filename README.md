@@ -3,11 +3,11 @@
 **`Developer | Content Creator | PC Builder`**
 
 I'm a Developer, PC Builder and Content Creator building my version of the digital wolrd step by step. All
-coding projects are built from scrath, planning and designing all the way to solve a real-life problem.
+coding projects are built from scratch, planning and designing all the way to solve a real-life problem.
 My content is also built the same way, a lot of ideas come up during the learning process and I take advantage to create content about it. The content is published on my Instagram "[Ernie.codes][instagram]". 
 
 
--I'm currently working on a "[AI Image Generator][last]".
+-I'm currently working on a "[FBA Amazon Product Website][last]".
 
 
 -I'm currently learning React and Javascript 💞️
@@ -52,6 +52,6 @@ My content is also built the same way, a lot of ideas come up during the learnin
 
 
 
-[last]: https://github.com/Ernestoc14/AI-Image-Generator
+[last]: https://github.com/Ernestoc14/FBA-Website
 [instagram]: https://instagram.com/ernie.codes
 
