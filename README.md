@@ -19,7 +19,7 @@ My content is also built the same way, a lot of ideas come up during the learnin
 -I’m  studying to improve as developer!
 
 
--How to reach me: @ernie.codes on Instagram 📫 
+-How to reach me:"[@ernie.codes][instagram]" on Instagram 📫 
 
 
 
