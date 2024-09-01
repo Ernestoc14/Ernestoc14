@@ -7,7 +7,7 @@ coding projects are built from scratch, planning and designing all the way to so
 My content is also built the same way, a lot of ideas come up during the learning process and I take advantage to create content about it. The content is published on my Instagram [@ernie.codes][instagram]. 
 
 
--I'm currently working on [FBA Amazon Product Website][last].
+-I'm currently working on [@daleclick.pa][last] Mobile App.
 
 
 -I'm currently learning Python and TypeScript 💞️
@@ -53,6 +53,6 @@ My content is also built the same way, a lot of ideas come up during the learnin
 
 
 
-[last]: https://github.com/Ernestoc14/FBA-Website
+[last]: https://www.instagram.com/daleclick.pa/
 [instagram]: https://instagram.com/ernie.codes
 
