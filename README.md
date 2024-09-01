@@ -10,7 +10,7 @@ My content is also built the same way, a lot of ideas come up during the learnin
 -I'm currently working on [@daleclick.pa][last] Mobile App.
 
 
--I'm currently learning Python and TypeScript 💞️
+-I'm currently learning AWS and TypeScript 💞️
 
 
 -I’m  looking to collaborate with others content creators 🌱  
