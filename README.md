@@ -49,6 +49,8 @@ My content is also built the same way, a lot of ideas come up during the learnin
 
 ![Ernesto's Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ernestoc14&show_icons=true&theme=gruvbox)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ernestoc14&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
 <img display="flex" src="https://github-readme-streak-stats.herokuapp.com/?user=Ernestoc14&count_private=true&theme=material-palenight&show_icons=true">
 
 
